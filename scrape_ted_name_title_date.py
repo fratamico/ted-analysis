@@ -1,4 +1,5 @@
 #this file scrapes the names, titles, and dates of ted talks (the stuff available on the https://www.ted.com/talks pages)
+#this file is faster to run than scrape_ted.py, but it does not get as much information
 
 from selenium import webdriver
 
